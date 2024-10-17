@@ -2,7 +2,7 @@
   "name": "aurora-pulse",
   "displayName": "Aurora Pulse",
   "description": "Colors inspired by the Northern Lights",
-  "repository": "https://github.com/algol007/aurora-pulse",
+  "repository": "https://dev.azure.com/algol007/_git/aurora-pulse",
   "version": "0.0.1",
   "publisher": "algol007",
   "engines": {
