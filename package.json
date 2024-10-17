@@ -1,0 +1,23 @@
+{
+  "name": "aurora-pulse",
+  "displayName": "Aurora Pulse",
+  "description": "Colors inspired by the Northern Lights",
+  "repository": "https://github.com/algol007/aurora-pulse",
+  "version": "0.0.1",
+  "publisher": "algol007",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "aurora-pulse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-pulse-color-theme.json"
+      }
+    ]
+  }
+}
