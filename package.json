@@ -4,9 +4,9 @@
   "description": "Colors inspired by the Northern Lights",
   "repository": {
     "type": "git",
-    "url": "https://github.com/algol007/aurora-pulse"
+    "url": "https://dev.azure.com/algol007/_git/aurora-pulse"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "algol007",
   "engines": {
     "vscode": "^1.94.0"

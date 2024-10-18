@@ -2,7 +2,7 @@
 
 _Aurora Pulse_ is a beautifully crafted dark theme for Visual Studio Code, inspired by the mesmerizing colors of the northern lights. With vibrant, neon highlights and deep, cosmic tones, this theme offers a balance between aesthetics and readability, making your coding experience both visually pleasing and productive.
 
-![Aurora Pulse Logo](./images/aurora-pulse.png)
+![Aurora Pulse Logo](https://dev.azure.com/algol007/_git/aurora-pulse?path=/images/aurora-pulse.png)
 
 ## 🌌 Key Features
 
@@ -31,15 +31,15 @@ These colors are carefully curated to enhance code readability while giving a fr
 
 ### Code Preview
 
-![Code Preview](./images/screenshot-1.png)
+![Code Preview](https://dev.azure.com/algol007/_git/aurora-pulse?path=/images/screenshot-1.png)
 
 ### Sidebar and File Explorer
 
-![Sidebar](./images/screenshot-2.png)
+![Sidebar](https://dev.azure.com/algol007/_git/aurora-pulse?path=/images/screenshot-2.png)
 
 ### Terminal
 
-![Terminal Preview](./images/screenshot-3.png)
+![Terminal Preview](https://dev.azure.com/algol007/_git/aurora-pulse?path=/images/screenshot-3.png)
 
 ## 🚀 Installation
 
