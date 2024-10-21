@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/algol007/aurora-pulse.git"
   },
-  "version": "1.0.3",
+  "version": "1.0.0",
   "publisher": "algol007",
   "engines": {
     "vscode": "^1.94.0"
